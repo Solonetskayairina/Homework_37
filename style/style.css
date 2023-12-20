@@ -1,0 +1,48 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    input {
+        position: absolute;
+        left: 210px;
+        padding-left: 5px;
+        font-size: 1em;
+        color: #ABABAB;
+    }
+
+    h2 {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+
+    .block_post {
+      padding-top: 20px;
+    }
+
+    #blockPost p {
+        color: #ABABAB;
+    }
+
+    .button_comments {
+        padding: 3px 3px;
+        background: black;
+        color: aliceblue;
+        border-radius: 7px;
+        right: 27px;
+        position: absolute;
+    }
+
+    .block_comments {
+        padding-top: 30px;
+    }
+
+    .block_comments p {
+        padding-bottom: 5px;
+    }
